@@ -1,4 +1,4 @@
-# Android_Lesson_5_homework_LITE
+## ДЗ "Палиндром"
 ```kotlin
 package com.example.lesson_5_homework_lite
 
